@@ -1,6 +1,6 @@
 # BurstOff! Game
 
-This is a simple Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API.
+This is a simple Game where you control a paddle with the arrow keys to bounce a ball up to break bricks. This app uses the HTML5 canvas element and API.  
 
 ## Preview: https://dushyant029.github.io/Burst-Off-Game/
 
